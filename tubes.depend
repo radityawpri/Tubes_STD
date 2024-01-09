@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1704681567 source:c:\users\raditya prihatnoko\coolyeah\semester 3\struktur data\new tubes\tubes\main.cpp
+	<iostream>
+	"tubes.h"
+
+1704681947 c:\users\raditya prihatnoko\coolyeah\semester 3\struktur data\new tubes\tubes\tubes.h
+	<iostream>
+
+1704688230 source:c:\users\raditya prihatnoko\coolyeah\semester 3\struktur data\new tubes\tubes\tubes.cpp
+	<iostream>
+	"tubes.h"
+
